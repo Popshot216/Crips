@@ -49,3 +49,4 @@ else
   echo "[✘] Installation faid![✘] ";
   exit
 fi
+crips
